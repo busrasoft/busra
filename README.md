@@ -14,7 +14,7 @@ I've +15 years working experience in small, medium, corporate and government env
 - **Knawat** --> Technical Product Manager.
 - **Dawerly** --> Computer Engineer  (Laravel Developer).
 - **Modaselvim**  Computer Engineer.
-- **Desteklen**  Computer Engineer  (Full Stack Master).
+- **Desteklen**  Computer Engineer  (Full Stack Developer).
 - **4maps Tech** --> Computer Engineer (Java Spring Developer)
 - **Mecbey Software** --> Computer Engineer (Angular Developer)
 
