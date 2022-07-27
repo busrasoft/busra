@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Busra .. Computer Engineer
-- I am doing Software Product Owner.
+- I am a Software Product Owner.
 - Agile methodology.
 - I am doing scrum master.
 
