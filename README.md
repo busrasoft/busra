@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Busra .. Computer Engineer
-- I am doing software test.
+- I am doing Software Product Owner.
 - Agile methodology.
 - I am doing scrum master.
 
@@ -20,7 +20,7 @@ I've +5 years working experience in small, medium, corporate and government envi
 ...
 
 
-- 🔭 I’m currently working on : (PHP - Angular)
+- 🔭 I’m currently working on : (Java - PHP - Angular)
 
 - 🌱 I’m currently learning : (React)
 
