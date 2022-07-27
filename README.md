@@ -10,10 +10,12 @@ My name is Busra .. Computer Engineer
 I've +15 years working experience in small, medium, corporate and government environments.
 
 #### Previous companies:
+- **BUGECE** --> Technical Product Owner.
+- **Knawat** --> Technical Product Manager.
 - **Dawerly** --> Computer Engineer  (Laravel Developer).
 - **Modaselvim**  Computer Engineer.
-- **Desteklen**  Computer Engineer  (Web Master).
-- **4maps Tech** --> Computer Engineer (Spring Developer)
+- **Desteklen**  Computer Engineer  (Full Stack Master).
+- **4maps Tech** --> Computer Engineer (Java Spring Developer)
 - **Mecbey Software** --> Computer Engineer (Angular Developer)
 
 
