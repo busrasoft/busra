@@ -3,7 +3,7 @@
 My name is Busra .. Computer Engineer
 - I am a Software Product Owner.
 - Agile methodology.
-- I am doing scrum master.
+- I'm working as a scrum master.
 
 ..
 
@@ -15,7 +15,7 @@ I've +15 years working experience in small, medium, corporate and government env
 - **Dawerly** --> Computer Engineer  (Laravel Developer).
 - **Modaselvim**  Computer Engineer.
 - **Desteklen**  Computer Engineer  (Full Stack Developer).
-- **4maps Tech** --> Computer Engineer (Java Spring Developer)
+- **4Maps Tech** --> Computer Engineer (Java Spring Developer)
 - **Mecbey Software** --> Computer Engineer (Angular Developer)
 
 
@@ -24,7 +24,7 @@ I've +15 years working experience in small, medium, corporate and government env
 
 - 🔭 I’m currently working on : (Java - PHP - Angular)
 
-- 🌱 I’m currently learning : (React)
+- 🌱 I’m currently learning : (React and Node.js)
 
 - 📫 How to reach me:
   - Job offer: `busraabasci@gmail.com` .
