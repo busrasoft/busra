@@ -27,7 +27,7 @@ I've +15 years working experience in small, medium, corporate and government env
 - 🌱 I’m currently learning : (React and Node.js)
 
 - 📫 How to reach me:
-  - Job offer: `busraabasci@gmail.com` .
+  - Job offer / consultations : `busrasof@gmail.com` .
 
 <!--
 **busrasoft/busra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
